@@ -1,0 +1,48 @@
+[25-Jul-2019 20:28:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/mail.php on line 19
+[25-Jul-2019 20:29:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/hashing.php on line 32
+[25-Jul-2019 20:29:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/cache.php on line 20
+[25-Jul-2019 20:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/services.php on line 18
+[25-Jul-2019 20:30:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/session.php on line 21
+[25-Jul-2019 20:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/freedentist/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/view.php on line 17
+[25-Jul-2019 20:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/app.php on line 16
+[25-Jul-2019 20:32:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/queue.php on line 16
+[25-Jul-2019 20:37:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/logging.php on line 19
+[25-Jul-2019 21:35:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/database.php on line 16
+[25-Jul-2019 22:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/filesystems.php on line 16
+[25-Jul-2019 22:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/freedentist/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/freedentist/public_html/config/broadcasting.php on line 18

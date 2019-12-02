@@ -1,0 +1,16 @@
+[24-Jul-2019 21:24:02 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/freedentist/public_html/app/Dentist.php on line 12
+[25-Jul-2019 20:28:27 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Event.php on line 7
+[25-Jul-2019 20:28:29 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Offer.php on line 7
+[25-Jul-2019 20:28:57 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/freedentist/public_html/app/User.php on line 10
+[25-Jul-2019 20:29:05 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Page.php on line 7
+[25-Jul-2019 20:29:16 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Service.php on line 7
+[25-Jul-2019 20:29:26 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Setting.php on line 7
+[25-Jul-2019 20:29:30 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/contactus.php on line 7
+[25-Jul-2019 20:29:44 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/permission.php on line 7
+[25-Jul-2019 20:30:08 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/per_user.php on line 7
+[25-Jul-2019 20:33:00 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Treatment.php on line 7
+[25-Jul-2019 20:33:05 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Hospital.php on line 7
+[25-Jul-2019 20:36:14 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Dentist_calander.php on line 7
+[25-Jul-2019 21:16:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/freedentist/public_html/app/ContactController.php on line 10
+[25-Jul-2019 22:03:55 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/freedentist/public_html/app/Nationality.php on line 7
+[25-Jul-2019 23:10:54 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/freedentist/public_html/app/Follower.php on line 9

@@ -1,0 +1,139 @@
+.nav-item a, .nav-item button {
+    font-size: 13pt;
+}
+.navbar-nav {
+  float: right;
+  margin-left: auto;
+  margin-right: 0; }
+
+.navBtn img {
+  margin-right: 10px;
+  margin-left: 0; }
+
+.stepsRow {
+  background: url("../imgs/home/path2.svg") no-repeat; }
+
+.dd {
+  border-right: 1px solid #000;
+  border-left: 0; }
+
+.bannerRow .row div:first-child .borderRadiusTp {
+  border-radius: 4px 0px 0px 4px; }
+
+.bannerRow .btn-banner {
+  border-radius: 0px 4px 4px 0px; }
+
+.dd .ddTitle .ddTitleText img {
+  padding-right: 10px;
+  padding-left: 0; }
+
+ul.social {
+  float: right; }
+
+footer p {
+  float: left; }
+
+.about:not(:last-child) {
+  border-right: 1px solid #E1E5F2;
+  border-left: 0; }
+
+.card button[data-toggle="collapse"] {
+  text-align: left; }
+
+.btnPlus i {
+  margin-right: 10px;
+  margin-left: 0; }
+
+.det i {
+  margin-right: 10px;
+  margin-left: 0; }
+
+.dateDetails .custom-control-label {
+  padding-left: 30px;
+  padding-right: 0; }
+
+.custom-control-label::before {
+  left: 0; }
+
+.favor .h5 i {
+  margin-right: 10px;
+  margin-left: 0; }
+
+.messages .message-send .custom-file-upload {
+  right: 30px;
+  left: auto; }
+
+.messages .message-send #recordButton {
+  float: right; }
+
+.notification .h5 i {
+  margin-right: 10px;
+  margin-left: 0; }
+
+.messages .allMsgs > div:first-child {
+  border-right: 1px solid #E1E5F2;
+  border-left: 0; }
+
+.register .form-check-inline {
+  margin-left: 0;
+  margin-right: 30px; }
+
+.register .form-check-inline .form-check-input {
+  margin-left: 0;
+  margin-right: 10px; }
+
+.checkList .custom-control-label {
+  padding-left: 30px;
+  padding-right: 0; }
+
+.reserve #recordingsList a {
+  margin-left: 5px;
+  margin-right: 0; }
+
+.date {
+  border-right: 1px solid #E1E5F2;
+  border-left: 0; }
+
+.upcomingDates h4 span {
+  margin-left: 5px;
+  margin-right: 0; }
+
+.messages .message-send #recordingsList a {
+  margin-right: 10px;
+  margin-left: 0; }
+
+.dots-btn {
+  float: right; }
+
+.navbar-nav .dropdown a {
+  font-size: 12pt;
+  text-align: left; }
+
+#addModal button.dropdown-toggle {
+  text-align: left; }
+
+#addModal .dropdown-toggle::after {
+  float: right; }
+
+.requiredF {
+  float: right; }
+
+.register select {
+  background-position: right 50%; }
+
+.input-group-append {
+  margin-left: 0; }
+
+.text-left {
+  text-align: right !important; }
+
+.addFavor {
+  right: 15px;
+  left: auto; }
+
+.messages .msg-head .pro-img {
+  float: right; }
+
+@media (max-width: 767px) {
+  .messages .nav-item .nav-link:not(.active) {
+    border-left: 1px solid #E1E5F2; } }

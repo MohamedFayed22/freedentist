@@ -1,0 +1,1 @@
+[27-Jul-2019 03:42:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/freedentist/public_html/tests/TestCase.php on line 7

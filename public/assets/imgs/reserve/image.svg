@@ -1,0 +1,11 @@
+<svg id="outline-panorama-24px" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Bounding_Boxes">
+    <path id="Path_3104" data-name="Path 3104" d="M0,0H20V20H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(0.833 3.333)">
+    <g id="Group_276" data-name="Group 276">
+      <path id="Path_3105" data-name="Path 3105" d="M17.667,4h-15A1.672,1.672,0,0,0,1,5.667v10a1.672,1.672,0,0,0,1.667,1.667h15a1.672,1.672,0,0,0,1.667-1.667v-10A1.672,1.672,0,0,0,17.667,4Zm0,11.667h-15v-10h15Z" transform="translate(-1 -4)" fill="#39a1f7"/>
+      <path id="Path_3106" data-name="Path 3106" d="M12.917,11,10,14.758,7.917,12.25,5,16H16.667Z" transform="translate(-1.667 -5.167)" fill="#39a1f7"/>
+    </g>
+  </g>
+</svg>

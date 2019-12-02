@@ -1,0 +1,269 @@
+[13-Jul-2019 17:14:51 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/bsamat/public_html/demo/dentist_messenger/routes/api.php on line 22
+[13-Jul-2019 17:14:56 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/bsamat/public_html/demo/dentist_messenger/routes/api.php on line 22
+[18-Jul-2019 12:17:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119554048 bytes) in /home/bsamat/public_html/demo/dentist_messenger/storage/framework/views/f59c838366ebc0f33e87cbb10eae87f92cd1a959.php on line 71
+[18-Jul-2019 12:17:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119554048 bytes) in /home/bsamat/public_html/demo/dentist_messenger/storage/framework/views/f59c838366ebc0f33e87cbb10eae87f92cd1a959.php on line 71
+[18-Jul-2019 12:17:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119554048 bytes) in /home/bsamat/public_html/demo/dentist_messenger/storage/framework/views/f59c838366ebc0f33e87cbb10eae87f92cd1a959.php on line 71
+[19-Jul-2019 15:31:03 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(401): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(378): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(293): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(190): Illuminate\Foundation\Exceptions\Handl in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[19-Jul-2019 15:31:07 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(401): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(378): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(293): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(190): Illuminate\Foundation\Exceptions\Handl in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[19-Jul-2019 15:31:20 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(401): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(378): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(293): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(190): Illuminate\Foundation\Exceptions\Handl in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[19-Jul-2019 15:31:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(401): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(378): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(293): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(190): Illuminate\Foundation\Exceptions\Handl in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[19-Jul-2019 15:31:38 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(401): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(378): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(293): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(190): Illuminate\Foundation\Exceptions\Handl in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[19-Jul-2019 15:31:47 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(401): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(378): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(293): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(190): Illuminate\Foundation\Exceptions\Handl in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[28-Jul-2019 11:29:11 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiEventController::Upcoming_Reserv() in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 82
+[28-Jul-2019 11:31:27 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiEventController::Upcoming_Reserv() in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 82
+[28-Jul-2019 11:31:30 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ApiEventController::Upcoming_Reserv() in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 82
+[31-Jul-2019 10:12:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsamat/public_html/demo/dentist_messenger/vendor/nesbot/carbon/src/Carbon/CarbonTimeZone.php on line 26
+[31-Jul-2019 10:13:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsamat/public_html/demo/dentist_messenger/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php on line 488
+[31-Jul-2019 10:14:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119554048 bytes) in /home/bsamat/public_html/demo/dentist_messenger/storage/framework/views/fceca03b7b652c33e8d96f36895f3a34b41da280.php on line 55
+[31-Jul-2019 10:14:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 119554048 bytes) in /home/bsamat/public_html/demo/dentist_messenger/storage/framework/views/fceca03b7b652c33e8d96f36895f3a34b41da280.php on line 55
+[13-Aug-2019 12:26:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiDentist_calanderController.php on line 195
+[02-Sep-2019 10:42:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 107
+[02-Sep-2019 10:57:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php on line 34
+[02-Sep-2019 10:58:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 1160
+[02-Sep-2019 11:09:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsamat/public_html/demo/dentist_messenger/vendor/symfony/http-foundation/HeaderBag.php on line 110
+[02-Sep-2019 11:10:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 310
+[02-Sep-2019 11:11:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsamat/public_html/demo/dentist_messenger/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php on line 114
+[05-Sep-2019 09:27:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:27:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:28:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:28:36 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:28:44 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:28:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:28:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:29:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:30:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:30:23 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:30:55 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[05-Sep-2019 09:31:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/bsamat/public_html/demo/dentist_messenger/app/Http/Controllers/ApiEventController.php on line 216
+[30-Sep-2019 14:35:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:35:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:35:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:19 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:21 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:29 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:54 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:54 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:36:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:18 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:19 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:21 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:34 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:43 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:37:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:18 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:21 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:38 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:43 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:43 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:38:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:21 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:39:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:21 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:40:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:21 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:41:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:21 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:42:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:43:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:43:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:43:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:43:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:43:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Sep-2019 14:43:21 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/freedentist/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
